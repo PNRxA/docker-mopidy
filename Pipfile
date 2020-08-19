@@ -13,6 +13,7 @@ mopidy-gmusic = "*"
 mopidy-pandora = "*"
 mopidy-youtube = "*"
 mopidy-jellyfin = "*"
+mopidy-mpd = "*"
 pyopenssl = "*"
 
 [requires]
