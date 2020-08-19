@@ -241,6 +241,13 @@
             "index": "pypi",
             "version": "==3.1"
         },
+        "mopidy-jellyfin": {
+            "hashes": [
+                "sha256:929bda2fad4523225dfe31826374f5b3a832a832a6379f16e5925c6f4934602f"
+            ],
+            "index": "pypi",
+            "version": "==0.9.2"
+        },
         "mutagen": {
             "hashes": [
                 "sha256:a8ba761d3bed7c1508ec4c3b5601262f84c0443956fe6d5579afde9fc40908af",
